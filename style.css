@@ -238,7 +238,7 @@ ul li a:hover:after{
     font-weight: 500;
     font-size: 35px;
     background-color: #e3d5ca;
-    border-radius: 15px;
+    border-radius: 0 20px 0 20px;
     width: 250px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
@@ -257,7 +257,7 @@ ul li a:hover:after{
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border-radius: 20px;
+    border-radius: 40px 0 40px 0;
     margin-top: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
