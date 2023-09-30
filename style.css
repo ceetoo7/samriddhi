@@ -19,8 +19,16 @@ header{
     background-position: center;
 }
 body{
+        background-color: #f5ebe0;
+}
+#products{
     background-image: url(./image/paper.jpg);
-    /* background-color: #f5ebe0; */
+    height: 350px;
+
+}
+.prod{
+    background-image: url(./image/paper.jpg);
+    
 }
 ul{
     float: right;
@@ -209,6 +217,7 @@ ul li a:hover:after{
 
 }
 
+
 #menu{
     width: 100%;
     max-width: 1200px;
@@ -222,9 +231,7 @@ ul li a:hover:after{
     font-weight: 500;
     color: black;
 }
-#menu{
-    width: 100%;
-}
+
 #foods1{
     display: flex;
     justify-content: space-around;
